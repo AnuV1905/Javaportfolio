@@ -42,12 +42,7 @@ const projectList = [
       "A team project to build interface of an app for a particular retail chain, having features for at-home and in-store configuration",
     url: "https://www.figma.com/design/iSJ1losGJvBP9zXbJ3hOOf/ASPECTS?t=r0ZsZURfNwV3uO5w-1",
   },
-  {
-    title: "My Resume PDF",
-    description:
-      "In PDF format, Created using Figma. Includes my biographical details and experience level",
-    url: "Javaportfolio-Template/AnuV Resume.pdf",
-  },
+  
   {
     title: "GitHub Profile",
     description:
