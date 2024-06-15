@@ -31,21 +31,21 @@ const imageAltText = "top view of laptop kept on desk with other accessories lik
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "Website repo that I worked o  with my team",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      "A web project targeted for women safety and need concerns",
+    url: "https://github.com/ANSHIKAA-SINGH/byteverse_Mavericks.git",
   },
   {
-    title: "Web Development for Beginners",
+    title: "App UI/Ux for Retail Chains",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+      "A team project to build interface of an app for a particular retail chain, having features for at-home and in-store configuration",
+    url: "https://www.figma.com/design/iSJ1losGJvBP9zXbJ3hOOf/ASPECTS?t=r0ZsZURfNwV3uO5w-1",
   },
   {
-    title: "My Resume Site",
+    title: "My Resume PDF",
     description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
+      "Created using Figma. Includes my biographical details and experience level",
     url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
   },
   {
