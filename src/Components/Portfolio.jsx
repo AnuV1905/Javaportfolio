@@ -45,14 +45,14 @@ const projectList = [
   {
     title: "My Resume PDF",
     description:
-      "Created using Figma. Includes my biographical details and experience level",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
+      "In PDF format, Created using Figma. Includes my biographical details and experience level",
+    url: "/workspaces/Javaportfolio-Template/AnuV Resume.pdf",
   },
   {
-    title: "GitHub Codespaces and github.dev",
+    title: "GitHub Profile",
     description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+      "For further checking out my contributions in several other projects.",
+    url: "https://github.com/AnuV1905",
   },
 ];
 
