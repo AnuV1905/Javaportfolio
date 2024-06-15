@@ -46,7 +46,7 @@ const projectList = [
     title: "My Resume PDF",
     description:
       "In PDF format, Created using Figma. Includes my biographical details and experience level",
-    url: "/workspaces/Javaportfolio-Template/AnuV Resume.pdf",
+    url: "Javaportfolio-Template/AnuV Resume.pdf",
   },
   {
     title: "GitHub Profile",
