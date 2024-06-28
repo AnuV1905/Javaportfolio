@@ -29,7 +29,7 @@ const siteProps = {
   email: "vermaanushka1905@gmail.com",
   gitHub: "AnuV1905",
   instagram: "",
-  linkedIn: "anushkaverma",
+  linkedIn: "anushka-verma-av1905",
   medium: "",
   twitter: "",
   youTube: "",
