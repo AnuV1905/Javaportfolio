@@ -61,7 +61,7 @@ const Footer = (props) => {
         }}
       >
         {email && (
-          <a href={`mailto:${vermaanushka1905@gmail.com}`}>
+          <a href={`mailto:${vermaanushka1905}`}>
             <img src={envelopeIcon} alt="email" className="socialIcon" />
           </a>
         )}
