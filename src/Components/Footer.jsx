@@ -71,7 +71,7 @@ const Footer = (props) => {
           </a>
         )}
         {gitHub && (
-          <a href={`https://github.com/${gitHub}`} target="_blank" rel="noopener noreferrer">
+          <a href={`https://github.com/AnuV1905/${gitHub}`} target="_blank" rel="noopener noreferrer">
             <img src={gitHubIcon} alt="GitHub" className="socialIcon" />
           </a>
         )}
@@ -86,7 +86,7 @@ const Footer = (props) => {
         )}
         {linkedIn && (
           <a
-            href={`https://www.linkedin.com/in/${linkedIn}`}
+            href={`https://www.linkedin.com/in/anushka-verma-av1905/${linkedIn}`}
             target="_blank"
             rel="noopener noreferrer"
           >
