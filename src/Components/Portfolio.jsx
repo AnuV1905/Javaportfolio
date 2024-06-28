@@ -31,7 +31,7 @@ const imageAltText = "top view of laptop kept on desk with other accessories lik
  */
 const projectList = [
   {
-    title: "Website repo that I worked o  with my team",
+    title: "Website repo that I worked on  with my team",
     description:
       "A web project targeted for women safety and need concerns",
     url: "https://github.com/ANSHIKAA-SINGH/byteverse_Mavericks.git",
@@ -46,7 +46,7 @@ const projectList = [
   {
     title: "GitHub Profile",
     description:
-      "For further checking out my contributions in several other projects.",
+      "For further checking out my contributions in several other open source projects.",
     url: "https://github.com/AnuV1905",
   },
 ];
