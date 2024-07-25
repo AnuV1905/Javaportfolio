@@ -18,7 +18,7 @@ import React from "react";
  */
 import image from "../images/150543-abstract-brown-and-white-diagonal-shiny-lines-background-vector-image.jpg";
 
-const imageAltText = "brown and white abstract background";
+const imageAltText = "Anushka Verma/brown and white abstract background";
 
 /**
  * Sort description that expands on your title on the Home component.
