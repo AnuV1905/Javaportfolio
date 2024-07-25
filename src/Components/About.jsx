@@ -34,9 +34,9 @@ const skillsList = [
   "Website development",
   "Deployement",
   "Web design",
-  "User experience",
-  "Mobile UI",
-  "Graphic design",
+  "Software Development",
+  "Competetive Programming",
+  "DSA",
 ];
 
 /**
@@ -45,7 +45,7 @@ const skillsList = [
  * about you on a professional level.
  */
 const detailOrQuote =
-  "My primary interests lie in web development and crafting intuitive UI/UX experiences. I have actively contributed as the developer in a significant web development project. Beyond development, I have dedicated time to creating sample UI projects, emphasizing user-centric design principles.";
+  "My primary interests lie in software development, building websites and crafting intuitive UI/UX experiences. I am currently working on my problem solving skills and algorithms primarily in C++. I have actively contributed as the developer in a significant web development project. Beyond development, I have dedicated time to creating sample UI projects, emphasizing user-centric design principles.";
 
 const About = () => {
   return (
