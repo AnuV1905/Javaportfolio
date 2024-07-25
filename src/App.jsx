@@ -25,7 +25,7 @@ import "./styles.css";
  */
 const siteProps = {
   name: "Anushka Verma",
-  title: "Software Development enthusiast, Web Developer & UI/UX Designer",
+  title: "Software Development Enthusiast Web Developer & UI/UX Designer",
   email: "vermaanushka1905@gmail.com",
   gitHub: "AnuV1905",
   instagram: "anu.__v._",
