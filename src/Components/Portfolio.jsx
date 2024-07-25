@@ -21,7 +21,7 @@ import React from "react";
  */
 import image from "../images/wp10271238.jpg";
 
-const imageAltText = "top view of laptop kept on desk with other accessories like headphones and notepad";
+const imageAltText = "Anushka Verma/top view of laptop kept on desk with other accessories like headphones and notepad";
 
 /**
  * Project list
