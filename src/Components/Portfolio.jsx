@@ -31,13 +31,13 @@ const imageAltText = "top view of laptop kept on desk with other accessories lik
  */
 const projectList = [
   {
-    title: "Website repo that I worked on  with my team",
+    title: "Website repo that I worked on in a team",
     description:
       "A web project targeted for women safety and need concerns",
     url: "https://github.com/ANSHIKAA-SINGH/byteverse_Mavericks.git",
   },
   {
-    title: "App UI/Ux for Retail Chains",
+    title: "App UI/UX for Retail Chains",
     description:
       "A team project to build interface of an app for a particular retail chain, having features for at-home and in-store configuration",
     url: "https://www.figma.com/design/iSJ1losGJvBP9zXbJ3hOOf/ASPECTS?t=r0ZsZURfNwV3uO5w-1",
@@ -48,6 +48,12 @@ const projectList = [
     description:
       "For further checking out my contributions in several other open source projects.",
     url: "https://github.com/AnuV1905",
+  },
+  {
+    title: "Resume",
+    description:
+      "Check my resume here",
+    url: "https://drive.google.com/file/d/1gV9e1-rqXcV9MLGjBK48wvG0yoiPSSFC/view?usp=drive_link",
   },
 ];
 
