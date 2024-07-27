@@ -5,9 +5,16 @@
  */
 
 import React from "react";
-
-import { SpeedInsights } from "@vercel/speed-insights/react"
-
+import { SpeedInsights } from '@vercel/speed-insights/react';
+ 
+export default function App() {
+  return (
+    <div>
+      {/* ... */}
+      <SpeedInsights />
+    </div>
+  );
+}
 import About from "./Components/About";
 import Footer from "./Components/Footer";
 import Header from "./Components/Header";
